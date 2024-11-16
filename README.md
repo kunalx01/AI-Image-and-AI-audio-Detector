@@ -1,4 +1,5 @@
-Multimodal AI Audio and Image Detector
+# **Multimodal AI Audio and Image Detector**
+
 This project is a multimodal detection system designed to identify AI-generated audio and images using advanced machine learning models. The system integrates audio and image classification models within a PyQt5 application, providing an interactive interface for users to upload and analyze media files.
 
 Project Overview
