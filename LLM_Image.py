@@ -55,7 +55,7 @@ def check_if_image_is_ai_generated(image_path, model):
 
 # Example usage
 if __name__ == "__main__":
-    api_key = "AIzaSyB6m5_xWp9esRMOA0wq08gaqPNx2vfrE48"
+    api_key = #your api key
     image_path = "data\\test_image.jpg"
 
     # Setup the Google GenerativeAI model
